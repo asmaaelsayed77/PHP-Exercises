@@ -182,9 +182,9 @@ $origins= [
 echo "<table style='border: 1px solid black; border-collapse: collapse;'>
 
 <tr>
-    <th>food</th>
-    <th>type</th>
-    <th>origin</th>
+    <th style='border: 1px solid black;'>food</th>
+    <th style='border: 1px solid black;'>type</th>
+    <th style='border: 1px solid black;'>origin</th>
   </tr>
 		
 <tr>
